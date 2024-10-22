@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Olipa kerran turhautunut opiskelija, joka yritti hoitaa lapiokurssia, mutta sössi sen niin monta kertaa, että tästä tarinasta tuli lopulta todella lyhyt.
+=======
+Olipa kerran opiskelija, joka yritti hoitaa lapiokurssia, mutta sössi sen niin monta kertaa, että tästä tarinasta tuli lopulta todella, todella lyhyt.
+>>>>>>> Stashed changes
