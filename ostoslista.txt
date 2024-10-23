@@ -1,4 +1,6 @@
-Terveisiä mun koneelta
+
+Terveisiä mun koneelta ja githubista
+>>>>>>> bc2bec6fee671f8e6ac7c44a5b425b4c65d72d78
 vegesuklaata
 olutta
 vegejuustoa
